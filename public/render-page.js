@@ -62820,7 +62820,7 @@ module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"nam
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"pt\",\"translations\":{\"home\":\"Início\",\"hello\":\"Danilo Deverso\",\"subline\":\"Gosto de construir interfaces para produtos digitais\",\"latestPosts\":\"Útimos posts\",\"category\":\"Categoria\",\"allPosts\":\"Todos os Posts\",\"toRead\":\"de leitura\",\"next\":\"Próximo\",\"prev\":\"Anterior\",\"of\":\"de\"}}},{\"node\":{\"name\":\"en\",\"translations\":{\"home\":\"Home\",\"hello\":\"Danilo Deverso\",\"subline\":\"I like to build interfaces for digital products\",\"latestPosts\":\"Latest posts\",\"category\":\"Category\",\"allPosts\":\"All Posts\",\"toRead\":\"to read\",\"next\":\"Next\",\"prev\":\"Prev\",\"of\":\"of\"}}}]}}}");
+module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"en\",\"translations\":{\"home\":\"Home\",\"hello\":\"Danilo Deverso\",\"subline\":\"I like to build interfaces for digital products\",\"latestPosts\":\"Latest posts\",\"category\":\"Category\",\"allPosts\":\"All Posts\",\"toRead\":\"to read\",\"next\":\"Next\",\"prev\":\"Prev\",\"of\":\"of\"}}},{\"node\":{\"name\":\"pt\",\"translations\":{\"home\":\"Início\",\"hello\":\"Danilo Deverso\",\"subline\":\"Gosto de construir interfaces para produtos digitais\",\"latestPosts\":\"Útimos posts\",\"category\":\"Categoria\",\"allPosts\":\"Todos os Posts\",\"toRead\":\"de leitura\",\"next\":\"Próximo\",\"prev\":\"Anterior\",\"of\":\"de\"}}}]}}}");
 
 /***/ }),
 

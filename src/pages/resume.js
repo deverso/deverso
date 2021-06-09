@@ -1,13 +1,5 @@
 import React from 'react'
-// import { graphql } from 'gatsby'
-// import SEO from '../components/seo'
-// import PostItem from '../components/PostItem'
-// import TitlePage from '../components/TitlePage'
-// import LocalizedLink from '../components/LocalizedLink'
-// import useTranslations from '../components/useTranslations'
 
-// import * as S from '../components/ListWrapper/styled'
-import { Profile } from '../components/Profile'
 import {
     Github,
     LinkedinSquare,
@@ -511,7 +503,7 @@ const Resume = () => {
             <S.MoreAboutMe>
                 <S.SubTitle>A little bit about me</S.SubTitle>
                 <S.MoreAboutMeDescription>
-                    Brazilian, {getAge('1991-09-23')} years. I've degree in
+                    Brazilian, {getAge('1989-09-18')} years. I've degree in
                     Marketing (2010-2012) and I like use UI (User interface)
                     Engineer, cause I've experience in the both areas.
                 </S.MoreAboutMeDescription>
