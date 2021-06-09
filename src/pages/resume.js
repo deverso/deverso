@@ -475,47 +475,35 @@ const Resume = () => {
     return (
         <>
             <S.AboutMe>
-                <S.Title>Eder Munhoz dos Santos </S.Title>
-                <S.Occupation>UI Engineer</S.Occupation>
+                <S.Title>Danilo Fernando Deverso</S.Title>
+                <S.Occupation>Software Engineer</S.Occupation>
             </S.AboutMe>
 
             <S.Contact>
                 <S.ContactDetail>
                     <Google size='20' />{' '}
-                    <a href='mailto:edermunhozsantos@gmail.com'>
-                        edermunhozsantos@gmail.com
+                    <a href='mailto:deverso@gmail.com'>
+                        deverso@gmail.com
                     </a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <Phone size='20' />{' '}
-                    <a href='tel:+5514997013345'> +55 (14) 99701-3345</a>
+                    <a href='tel:+5514988041657'> +55 (14) 98804-1657</a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <LinkedinSquare size='20' />{' '}
-                    <a href='https://www.linkedin.com/in/eder-munhoz-dos-santos-52965b66'>
+                    <a href='https://www.linkedin.com/in/danilodeverso'>
                         Linkedin
                     </a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <Github size='20' />{' '}
-                    <a href='https://github.com/emunhoz'>Github</a>
+                    <a href='https://github.com/deverso'>Github</a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <Blogger size='20' />{' '}
-                    <a href='https://edermunhozsantos.netlify.app/'>
-                        Personal blog
-                    </a>
-                </S.ContactDetail>
-                <S.ContactDetail>
-                    <StackOverflow size='20' />{' '}
-                    <a href='https://stackoverflow.com/users/10135827/eder'>
-                        StackOverflow
-                    </a>
-                </S.ContactDetail>
-                <S.ContactDetail>
-                    <Behance size='20' />{' '}
-                    <a href='https://www.behance.net/edermunhoz1384'>
-                        Portifolio
+                    <a href='https://deverso.dev/'>
+                        Personal website
                     </a>
                 </S.ContactDetail>
             </S.Contact>

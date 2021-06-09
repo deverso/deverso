@@ -8,8 +8,8 @@ module.exports = {
     dateFormat: `DD/MM/YYYY`,
     siteLanguage: `en`,
     ogLanguage: `en_US`,
-    defaultTitle: `Eder Munhoz Santos`,
-    defaultDescription: `A blog about personal content and front end experiences`
+    defaultTitle: `Danilo Deverso`,
+    defaultDescription: `A website about personal content and full-stack development experiences`
   },
   pt: {
     path: `pt`,
@@ -17,7 +17,7 @@ module.exports = {
     dateFormat: `DD/MM/YYYY`,
     siteLanguage: `pt`,
     ogLanguage: `pt_BR`,
-    defaultTitle: `Eder Munhoz Santos`,
-    defaultDescription: `Um blog sobre conteúdo pessoal e experiências front end`
+    defaultTitle: `Danilo Deverso`,
+    defaultDescription: `Um site sobre mim e minhas experiências com desenvolvimento full-stack`
   }
 }

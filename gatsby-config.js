@@ -6,10 +6,10 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `Eder Munhoz Santos`,
-    description: `A blog about personal content and front end experiences`,
-    author: `Eder Munhoz Santos`,
-    siteUrl: `http://edermunhozsantos.netlify.com/`
+    title: `Danilo Deverso`,
+    description: `A website about personal content and full-stack development experiences`,
+    author: `Danilo Deverso`,
+    siteUrl: `https://deverso.dev/`
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://edermunhozsantos.netlify.com',
-        sitemap: 'https://edermunhozsantos.netlify.com/sitemap.xml',
+        host: 'https://deverso.dev',
+        sitemap: 'https://deverso.dev/sitemap.xml',
         env: {
           development: {
             policy: [{ userAgent: '*', disallow: ['/'] }]
@@ -104,8 +104,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Eder Munhoz Santos`,
-        short_name: `@emunhoz`,
+        name: `Danilo Deverso`,
+        short_name: `@deverso`,
         start_url: `/`,
         background_color: `#16202c`,
         theme_color: `#16202c`,
