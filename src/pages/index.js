@@ -529,8 +529,7 @@ const Resume = () => {
                 <div>
                     <S.EducationDate>Jan 2007 - Jul 2009</S.EducationDate>
                     <S.EducationCourseName>
-                      FIB - Faculdades Integradas de Bauru
-                      Information Systems Technologist, Computer Systems Analysis/Analyst
+                      Information Systems Technologist
                     </S.EducationCourseName>
                     <S.EducationSchoolName>
                       FIB - Faculdades Integradas de Bauru - Bauru, São Paulo - Brazil
@@ -552,36 +551,16 @@ const Resume = () => {
                 </div>
             </S.Languages>
 
-            {/* <S.ComplementaryEducation>
-                <S.SubTitle>Complementary courses</S.SubTitle>
-                <div>
-                    <S.EducationDate>2021 - Present</S.EducationDate>
-                    <S.EducationCourseName>
-                        English Classes
-                    </S.EducationCourseName>
-                    <S.EducationSchoolName>Cambly</S.EducationSchoolName>
-                </div>
-                <div>
-                    <S.EducationDate>2020</S.EducationDate>
-                    <S.EducationCourseName>
-                        NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
-                    </S.EducationCourseName>
-                    <S.EducationSchoolName>
-                        https://www.udemy.com/course/tdd-com-mango/
-                    </S.EducationSchoolName>
-                    <S.EducationSchoolName>Udemy</S.EducationSchoolName>
-                </div>
+            <S.ComplementaryEducation>
+                <S.SubTitle>Licenses & certifications</S.SubTitle>
                 <div>
                     <S.EducationDate>2019</S.EducationDate>
                     <S.EducationCourseName>
-                        JS com TDD na Prática
+                      Scrum Foundation Professional Certificate
                     </S.EducationCourseName>
-                    <S.EducationSchoolName>
-                        https://www.udemy.com/course/js-com-tdd-na-pratica/
-                    </S.EducationSchoolName>
-                    <S.EducationSchoolName>Udemy</S.EducationSchoolName>
+                    <S.EducationSchoolName>CertiProf®</S.EducationSchoolName>
                 </div>
-            </S.ComplementaryEducation> */}
+            </S.ComplementaryEducation>
 
             <S.WorkExpirence>
                 <S.SubTitle>Experiences</S.SubTitle>
