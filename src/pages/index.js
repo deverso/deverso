@@ -234,241 +234,233 @@ export const S = {
 const experiences = [
     {
         company: 'Zmes',
-        occupation: 'UI Engineer',
-        time: 'Dec 2020 - Present',
+        occupation: 'Teach Lead Software Engineer',
+        time: 'Nov 2020 - Present',
         label_color: randomColor(),
         technologies: [
+            'PHP',
+            'Laravel',
+            'Ruby',
+            'Node.JS',
             'React',
             'styled-components',
-            'Design System',
-            'Lerna',
-            'Monorepo',
-            'Yarn workspaces',
-            'Google Cloud',
+            'Google Cloud Platform',
             'Vercel CI/CD',
-            'BFF',
-            'Unit test',
-            'Integrations test',
+            'Vue.JS',
+            'REST API',
+            'Docker',
         ],
         description: [
             'Helping built a new product from scratch.',
-            'I helped build a design system (components, design-tokens) using Figma, design pages',
-            'Working as front end lead in an application using continuous delivery and best practices',
+            'Create ETL structure',
+            'Working as front and backend engineer',
         ],
     },
     {
-        company: 'Luizalabs',
-        occupation: 'Front end Engineer',
-        time: 'Mar 2020 - Nov 2020',
+        company: 'Dafiti',
+        occupation: 'Software Engineer',
+        time: 'Oct 2019 - Oct 2020',
         technologies: [
+            'PHP',
             'React',
-            'Next.js',
+            'GraphQL',
             'SSR',
-            'NodeJs',
+            'Node.JS',
             'styled-components',
-            'Google Cloud',
-            'Grafana',
+            'Kubernetes',
             'Docker',
             'BFF',
-            'Unit test',
-            'Integrations test',
+            'REST API',
         ],
         description: [
-            'Translate mock-ups into fully functioning complex products',
-            'Working closely designers',
-            'Improved the existing software and implemented new ones',
+            'Worked on the squad responsible for build the new PWA',
+            'Maintenance of legacy e-commerce system',
+            'Improved the CI/CD on legacy softwares',
         ],
     },
     {
-        company: 'Escale Digital',
-        occupation: 'Front end Engineer',
-        time: 'Mar 2019 - Mar 2020',
+        company: 'Neemo',
+        occupation: 'Product Manager / Software Engineer',
+        time: 'Dec 2018 - May 2019',
         technologies: [
-            'React',
-            'Razzle.js (SSR)',
-            'Design System',
-            'NodeJs',
-            'GraphQL',
-            'Prismic (Headless CMS)',
-            'Gatsby',
-            'styled-components',
-            'Unit test',
-            'Integrations test',
-            'Circle CI',
-        ],
-        description: [
-            'First front end of the team (Zelas Conecta)',
-            'Working closely designers',
-            'I had the chance to define front end architectures for large projects',
-            'I had the chance to build a design system from scratch',
-        ],
-    },
-    {
-        company: 'UOL - Universo Online',
-        occupation: 'Front end Engineer',
-        time: 'Jun 2018 - Mar 2019',
-        technologies: [
-            'Angular',
-            'React',
-            'SCSS',
-            'BFF with NodeJs',
-            'Design System',
-            'NodeJs',
-            'Unit test',
-        ],
-        description: [
-            'Working in a large-scale product that impact more than millions people',
-            'Working closely designers',
-            'Improved the existing software and implemented new ones',
-        ],
-    },
-    {
-        company: 'Yapay by Locaweb',
-        occupation: 'Front end Engineer',
-        time: 'Sep 2015 - Jun 2018',
-        technologies: [
-            'VueJs',
-            'React',
             'Ruby on Rails',
-            'SCSS',
-            'Design System',
-            'Figma',
-            'Adobe XD',
-            'Vanilla JS',
-            'CSS',
-            'Wordpress',
+            'SCRUM',
+            'Kanban',
         ],
         description: [
-            'First front end of the team o/',
-            'Translate mock-ups into fully functioning complex products',
-            'Working closely designers',
+            'Improve product, planning, benchmark.',
+            'Helping with Ruby on Rails development',
+            'Bug fix and small improvements.',
         ],
     },
     {
-        company: 'G&P',
-        occupation: 'Web designer',
-        time: 'Out 2014 - Ago 2015',
-        technologies: ['Angular', 'SCSS', 'Vanilla JS', 'CSS'],
-        description: [
-            'Helped build interfaces for government software',
-            'Interfaces for websites, HTML and CSS using W3C standards, wireframe, navigable prototypes, user experience / interface improvements',
-        ],
-    },
-    {
-        company: 'MStech',
-        occupation: 'Web designer',
-        time: 'May 2013 - Out 2014',
-        technologies: ['HTML', 'CSS', 'Vanilla JS', 'Photoshop'],
-        description: [
-            'Front end apps for online classes',
-            'Design coverbooks, magazines, web layouts, book layout',
-        ],
-    },
-    {
-        company: 'Solidum Editora',
-        occupation: 'Designer',
-        time: 'Jul 2008 - Jun 2013',
+        company: 'Tray Plataforma de E-commerce',
+        occupation: 'Development Coordinator',
+        time: 'May 2018 - Sep 2018',
         technologies: [
-            'Photoshop',
-            'Adobe InDesign',
-            'Adobe After Effects',
-            'Flash',
+          'PHP',
+          'Laravel',
+          'RabbitMQ',
+          'PostgreSQL',
+          'JavaScript',
+          'Vue.js',
+          'Restful API',
+          'TDD',
+          'Git',
+          'Gitlab CI',
+          'Docker',
+          'SCRUM',
+          'Kanban',
+        ],
+        description: [
+            'Leading the development team, helping improve a newly help desk software',
+            'Working as scrum master, but also with personal management',
+            'Find the bests technologies to put in the product.',
+            'Improved the existing software and implemented new ones',
+        ],
+    },
+    {
+        company: 'Tray Plataforma de E-commerce',
+        occupation: 'Software Development Team Lead',
+        time: 'Jul 2017 - Apr 2018',
+        technologies: [
+          'Ruby on Rails',
+          'RabbitMQ',
+          'PostgreSQL',
+          'JavaScript',
+          'Vue.js',
+          'Restful API',
+          'TDD',
+          'Git',
+          'Gitlab CI',
+          'Docker',
+          'Vagrant',
+          'Ansible',
+          'SCRUM',
+          'Kanban',
+        ],
+        description: [
+            'Performinmg as scrum master, helping the scrum ceremonies, solving impediments',
+            'Using Ansible to provisioning server for our application',
+            'Responsible for keep an eye on our app health (mostly using New Relic and inside report softwares)',
+            'Developing features and bugs fix',
+        ],
+    },
+    {
+      company: 'Tray Plataforma de E-commerce',
+        occupation: 'Software Engineer',
+        time: 'Oct 2013 - Jun 2017',
+        technologies: [
+          'PHP',
+          'MySQL',
+          'CakePHP',
+          'JavaScript',
+          'ElasticSearch',
+          'Sidekiq',
+          'Redis',
+          'Ruby on Rails',
+          'PostgreSQL',
+          'Vue.js',
+          'Docker',
+          'Vagrant',
+          'SCRUM',
+          'Kanban',
+        ],
+        description: [
+            'Development of new features and bug fixes',
+            'E-commerce platform',
+            'Online payment platform',
+        ],
+    },
+    {
+        company: 'Arca Solutions',
+        occupation: 'iOS Developer',
+        time: 'Mar 2013 - Sep 2013',
+        technologies: ['Objective-C', 'PHP'],
+        description: [
+            'Customization of already made app with new features',
+            'Development of API changes to fit the custom changes',
+        ],
+    },
+    {
+        company: 'Arca Solutions',
+        occupation: 'Software Engineer',
+        time: 'Mar 2011 - Sep 2013',
+        technologies: [
+            'PHP',
+            'MySQL',
+            'Javascript',
+            'jQuery',
+            'HTML',
+            'CSS',
+            'Bootstrap'
+        ],
+        description: [
+            'Customization of yellow pages system with new features',
+        ],
+    },
+    {
+        company: 'Unimagem',
+        occupation: 'Software Engineer',
+        time: 'Feb 2010 - Mar 2011',
+        technologies: [
+            'PHP',
+            'MySQL',
+            'Javascript',
+            'jQuery',
             'HTML',
             'CSS',
         ],
         description: [
-            'Covers books, magazines, newspapers, layout, folders, visual identities, e-mail marketing, vectorizations and others graphic works.',
+            'Development of institutional website',
+            'Development of e-learning platform',
+            'Monitoring the system during e-learning session',
+        ],
+    },
+    {
+        company: 'ZR Mídia',
+        occupation: 'Software Engineer',
+        time: 'Sep 2008 - Jan 2010',
+        technologies: [
+            'PHP',
+            'MySQL',
+            'Javascript',
+            'jQuery',
+            'HTML',
+            'CSS',
+            'Photoshop'
+        ],
+        description: [
+            'Development of institutional website',
+            'Improvements on in-house CMS',
         ],
     },
 ]
 
 const sideProjects = [
-    {
-        name: 'Spotifood - Food with music',
-        year: '2021',
-        link: {
-            github: 'https://github.com/emunhoz/spotifood',
-            production: 'https://spotifood-ten.vercel.app/#/',
-            figma:
-                'https://www.figma.com/file/OIo3gx7ydjfIOC6oSI9A0a/Spotifood?node-id=0%3A1',
-        },
-        technologies: [
-            'React',
-            'styled-components',
-            'Design System',
-            'Figma',
-            'Mobile First',
-            'Lerna',
-            'Monorepo',
-            'Yarn workspaces',
-            'Vercel CI/CD',
-            'Unit test',
-            'Integrations test',
-        ],
-    },
-    {
-        name: 'Whats In - Find movies',
-        year: '2021',
-        link: {
-            github: 'https://github.com/emunhoz/find-movies',
-            production: 'https://find-movies-app.vercel.app/#/',
-        },
-        technologies: [
-            'React',
-            'styled-components',
-            'Design System',
-            'Figma',
-            'Mobile First',
-            'Lerna',
-            'Monorepo',
-            'Yarn workspaces',
-            'Vercel CI/CD',
-            'Unit test',
-            'Integrations test',
-        ],
-    },
-    {
-        name: 'Component library',
-        year: '2020',
-        link: {
-            github: 'https://github.com/emunhoz/npm-react-module',
-            production:
-                'https://emunhoz.github.io/npm-react-module/?path=/docs',
-        },
-        technologies: [
-            'React',
-            'styled-components',
-            'Rollup',
-            'Netlify CI/CD',
-            'Unit test',
-        ],
-    },
-    {
-        name: 'Greenthumb - Find your next green field',
-        year: '2019',
-        link: {
-            github: 'https://github.com/emunhoz/greenthumb',
-            production: 'https://emunhoz-greenthumb.netlify.app/',
-        },
-        technologies: [
-            'React',
-            'styled-components',
-            'Mobile version',
-            'Netlify CI/CD',
-            'Unit test',
-            'Integrations test',
-            'e2e tests',
-        ],
-    },
-    {
-        name: 'Not Slack - Chat interface',
-        year: '2019',
-        link: {
-            github: '',
-            production: 'https://emunhoz-not-slack.netlify.app/',
-        },
-        technologies: ['React', 'styled-components'],
-    },
+    // {
+    //     name: 'Spotifood - Food with music',
+    //     year: '2021',
+    //     link: {
+    //         github: 'https://github.com/emunhoz/spotifood',
+    //         production: 'https://spotifood-ten.vercel.app/#/',
+    //         figma:
+    //             'https://www.figma.com/file/OIo3gx7ydjfIOC6oSI9A0a/Spotifood?node-id=0%3A1',
+    //     },
+    //     technologies: [
+    //         'React',
+    //         'styled-components',
+    //         'Design System',
+    //         'Figma',
+    //         'Mobile First',
+    //         'Lerna',
+    //         'Monorepo',
+    //         'Yarn workspaces',
+    //         'Vercel CI/CD',
+    //         'Unit test',
+    //         'Integrations test',
+    //     ],
+    // },
 ]
 
 const Resume = () => {
@@ -509,81 +501,39 @@ const Resume = () => {
             </S.Contact>
 
             <S.MoreAboutMe>
-                <S.SubTitle>A little bit about me</S.SubTitle>
+                <S.SubTitle>About me</S.SubTitle>
                 <S.MoreAboutMeDescription>
-                    Brazilian, {getAge('1991-09-23')} years. I've degree in
-                    Marketing (2010-2012) and I like use UI (User interface)
-                    Engineer, cause I've experience in the both areas.
+                  Brazilian, {getAge('1989-09-18')} years.
                 </S.MoreAboutMeDescription>
                 <S.MoreAboutMeDescription>
-                    I like to work closely with designers cause I believe that
-                    this experience of getting to know a little of both areas
-                    can have a more agile impact on product development.
+                    I have more than 12 years of experience in web development, working with different technologies and tools, most of those years I worked with e-commerce systems or other type of SaaS.
                 </S.MoreAboutMeDescription>
                 <S.MoreAboutMeDescription>
-                    In the last times I've been working in a new products from
-                    statch, using some interface editor (Figma, AdobeXD) to
-                    setup all components, design-tokens and pages. Check out{' '}
-                    <a href='https://www.behance.net/edermunhoz1384'>
-                        my personal portifolio
-                    </a>
-                    .
-                </S.MoreAboutMeDescription>
-                <S.MoreAboutMeDescription>
-                    Then, I start building the front end application using the
-                    best of technologies for the product context. Check out{' '}
-                    <a href='#last-side-projects'>
-                        my last side projects as Front end engineer
-                    </a>
-                    .
-                </S.MoreAboutMeDescription>
-                <S.MoreAboutMeDescription>
-                    Main technologies I use for front-end applications:
+                    Main technologies:
+                    <S.PostItemTag>PHP</S.PostItemTag>
+                    <S.PostItemTag>Node.JS</S.PostItemTag>
+                    <S.PostItemTag>Ruby on Rails</S.PostItemTag>
+                    <S.PostItemTag>Laravel</S.PostItemTag>
                     <S.PostItemTag>React</S.PostItemTag>
-                    <S.PostItemTag>NodeJs</S.PostItemTag>
                     <S.PostItemTag>styled-components</S.PostItemTag>
-                    <S.PostItemTag>Design System</S.PostItemTag>
-                    <S.PostItemTag>Monorepo</S.PostItemTag>
-                    <S.PostItemTag>NextJs</S.PostItemTag>
                     <S.PostItemTag>AWS</S.PostItemTag>
-                    <S.PostItemTag>Google Cloud</S.PostItemTag>
+                    <S.PostItemTag>Google Cloud Platform</S.PostItemTag>
                     <S.PostItemTag>Vercel</S.PostItemTag>
                     <S.PostItemTag>GraphQL</S.PostItemTag>
-                    <S.PostItemTag>Jest</S.PostItemTag>
-                    <S.PostItemTag>Testing library</S.PostItemTag>
-                    <S.PostItemTag>Cypress</S.PostItemTag>
-                    <S.PostItemTag>BFF with NodeJs</S.PostItemTag>
-                    <S.PostItemTag>Micro-frontends</S.PostItemTag>
+                    <S.PostItemTag>Micro-services</S.PostItemTag>
                 </S.MoreAboutMeDescription>
             </S.MoreAboutMe>
 
             <S.Education>
                 <S.SubTitle>Educations</S.SubTitle>
                 <div>
-                    <S.EducationDate>Jan 2010 - Jan 2012</S.EducationDate>
+                    <S.EducationDate>Jan 2007 - Jul 2009</S.EducationDate>
                     <S.EducationCourseName>
-                        Degree in Marketing
+                      FIB - Faculdades Integradas de Bauru
+                      Information Systems Technologist, Computer Systems Analysis/Analyst
                     </S.EducationCourseName>
                     <S.EducationSchoolName>
-                        IESB PREVE - Bauru, São Paulo - Brazil
-                    </S.EducationSchoolName>
-                </div>
-                <div>
-                    <S.EducationDate>Out 2015</S.EducationDate>
-                    <S.EducationCourseName>
-                        Front end web apps
-                    </S.EducationCourseName>
-                    <S.EducationSchoolName>
-                        Caelum - Ensino e Inovação
-                    </S.EducationSchoolName>
-                </div>
-                <div>
-                    <S.EducationDate>Jun 2013</S.EducationDate>
-                    <S.EducationCourseName>
-                        Project management
-                    </S.EducationCourseName>
-                    <S.EducationSchoolName>
-                        FGV - Fundação Getulio Vargas
+                      FIB - Faculdades Integradas de Bauru - Bauru, São Paulo - Brazil
                     </S.EducationSchoolName>
                 </div>
             </S.Education>
@@ -597,12 +547,12 @@ const Resume = () => {
                 <div>
                     <S.EducationCourseName>English</S.EducationCourseName>
                     <S.EducationSchoolName>
-                        Intermediate (English spoken (B1))
+                      Upper-Intermediate (B2)
                     </S.EducationSchoolName>
                 </div>
             </S.Languages>
 
-            <S.ComplementaryEducation>
+            {/* <S.ComplementaryEducation>
                 <S.SubTitle>Complementary courses</S.SubTitle>
                 <div>
                     <S.EducationDate>2021 - Present</S.EducationDate>
@@ -631,7 +581,7 @@ const Resume = () => {
                     </S.EducationSchoolName>
                     <S.EducationSchoolName>Udemy</S.EducationSchoolName>
                 </div>
-            </S.ComplementaryEducation>
+            </S.ComplementaryEducation> */}
 
             <S.WorkExpirence>
                 <S.SubTitle>Experiences</S.SubTitle>
@@ -680,9 +630,9 @@ const Resume = () => {
             </S.WorkExpirence>
 
             <S.SideProjects>
-                <S.SubTitle id='last-side-projects'>
+                {/* <S.SubTitle id='last-side-projects'>
                     Last side projects
-                </S.SubTitle>
+                </S.SubTitle> */}
 
                 <S.LatestProjectWrapper>
                     {sideProjects.map(
