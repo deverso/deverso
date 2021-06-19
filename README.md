@@ -52,8 +52,6 @@ class About extends Me
 ---
 <!--START_SECTION:waka-->
 ```text
-HTML         13 mins         ████████████▒░░░░░░░░░░░░   49.96 % 
-Markdown     7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.78 % 
-JavaScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
