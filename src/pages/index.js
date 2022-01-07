@@ -233,9 +233,19 @@ export const S = {
 
 const experiences = [
     {
+        company: 'Freelancer Developer',
+        occupation: '',
+        time: 'Jul 2020 - Present',
+        label_color: randomColor(),
+        technologies: [
+        ],
+        description: [
+            'General freelancer development',
+        ],
+    },{
         company: 'Zmes',
         occupation: 'Teach Lead Software Engineer',
-        time: 'Nov 2020 - Present',
+        time: 'Nov 2020 - Jul 2020',
         label_color: randomColor(),
         technologies: [
             'PHP',
