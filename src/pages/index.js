@@ -495,12 +495,12 @@ const Resume = () => {
                 <S.ContactDetail>
                     <LinkedinSquare size='20' />{' '}
                     <a href='https://www.linkedin.com/in/danilodeverso'>
-                        Linkedin
+                        https://www.linkedin.com/in/danilodeverso
                     </a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <Github size='20' />{' '}
-                    <a href='https://github.com/deverso'>Github</a>
+                    <a href='https://github.com/deverso'>https://github.com/deverso</a>
                 </S.ContactDetail>
                 <S.ContactDetail>
                     <Blogger size='20' />{' '}
