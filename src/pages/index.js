@@ -489,10 +489,6 @@ const Resume = () => {
                     </a>
                 </S.ContactDetail>
                 <S.ContactDetail>
-                    <Phone size='20' />{' '}
-                    <a href='tel:+5514988041657'> +55 (14) 98804-1657</a>
-                </S.ContactDetail>
-                <S.ContactDetail>
                     <LinkedinSquare size='20' />{' '}
                     <a href='https://www.linkedin.com/in/danilodeverso'>
                         https://www.linkedin.com/in/danilodeverso
